@@ -1,0 +1,38 @@
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00c888;
+}
+
+.menuitem {
+  float: left;
+}
+body {
+  background-color: black;
+}
+
+.menuitem {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.menuitem:hover {
+  background-color: #0ee5fb;
+}
+
+.plaatje {
+  color:white;
+}
+
+.myDiv {
+border: 5px outset #0eb701;
+background-color: #ae5adb;
+text-align: center;
+font-family: comic sans ms;
+}
