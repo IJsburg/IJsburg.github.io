@@ -10,7 +10,7 @@
   float: left;
 }
 body {
-  background-color: black;
+  background-color: rgb(22, 22, 22);
 }
 
 .menuitem {
@@ -20,7 +20,9 @@ body {
   padding: 14px 16px;
   text-decoration: none;
 }
-
+.menuitem a {
+  color: blue
+}
 
 .menuitem:hover {
   background-color: #0ee5fb;
